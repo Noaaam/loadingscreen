@@ -1,0 +1,17 @@
+body {
+    background-color: #1a1a1a;
+}
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: #999999;
+}
+
+.alignRight{
+    float: right;
+    align-items: center;
+}
